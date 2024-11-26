@@ -15,8 +15,8 @@
 
 -Skills
 
-- Languages:** JavaScript, Python, SQL
-- Frontend:** HTML, CSS, React.js
+- Languages: JavaScript, Python, SQL
+- Frontend: HTML, CSS, React.js
 - Backend: Node.js, Express.js
 - Databases: MongoDB, SQL
 - Tools & Technologies: Git, GitHub, API Integration
