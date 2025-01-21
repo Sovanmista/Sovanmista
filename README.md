@@ -8,7 +8,7 @@
 
 -About Me
 
-- 🌐 Website: https://susovanmishra-portfolio.netlify.app/
+- 🌐 Website: https://susovanmishra.icu
 - 💼 LinkedIn: https://www.linkedin.com/in/susovan-mishra-ab6998248/
 
 ---
